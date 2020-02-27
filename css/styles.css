@@ -96,7 +96,7 @@ body {
   margin: 0 auto;
 }
 
-img {
+.brit {
   width: 200px;
   -o-object-fit: cover;
      object-fit: cover;

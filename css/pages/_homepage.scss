@@ -20,7 +20,7 @@ body{
     transform-origin:center right; //propriété à utiliser avec transform sans quoi elle ne fonctionne pas -> modifie la position de l'élément transformé - par défaut = center
     margin: 0 auto;
 }
-img{
+.brit{
     width:200px;
     // object-fit: cover;
     object-fit: cover;
